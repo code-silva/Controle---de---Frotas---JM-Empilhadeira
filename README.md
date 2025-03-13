@@ -1,6 +1,8 @@
 <img src="" alt=""></img>
 <h1>Controle de Frotas - JM Empilhadeira & Toyota Empilhadeiras</h1>
-<img src="capa do projeto.jpg" alt=""></img>
+<p align="center">
+    <img src="capa do projeto.jpg" alt="Capa do Projeto" style="display: block; margin: auto;">
+</p>
 
 <br>
 
@@ -29,7 +31,7 @@
 </ul>
 </ul>
 
-<h2>Controle das Informacoes</h2>
+<h2>Controle das Informações</h2>
 
 <ul>
 <li>Painel Administrativo para gerenciamento das frotas.</li>
