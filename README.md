@@ -1,7 +1,7 @@
 <img src="" alt=""></img>
 <h1>Controle de Frotas - JM Empilhadeira & Toyota Empilhadeiras</h1>
 <p align="center">
-    <img src="capa do projeto.jpg" alt="Capa do Projeto" style="display: block; margin: auto;">
+    <img src="capa_do_projeto.jpg" alt="Capa do Projeto" style="display: block; margin: auto;">
 </p>
 
 <br>
