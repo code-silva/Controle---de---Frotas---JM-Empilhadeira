@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="logo_jm.png"></img>
-<p>
+    <img src="logo_jm.png" style="width: 150px; height: auto;">
+</p>
     
 <h1 align="center">Controle de Frotas - JM Empilhadeira & Toyota Empilhadeiras</h1>
 <p align="center">
